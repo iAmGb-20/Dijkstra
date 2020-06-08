@@ -1,0 +1,1029 @@
+Name: Godbless Chille
+
+Name: Anisha Bhattacharya
+
+CSC 172 PROJECT3
+
+NETID: gchille
+
+NETID: abhatta9
+
+NETID no. 31528986
+
+NETID no. 31564472
+
+email: gchille@u.rochester.edu
+
+email: abhatta9@u.rochester.edu
+
+
+The command line arguments and their order are really important in the output file. The format for running on the terminal is :
+java ProgramName map.txt [-show] [-directions startIntersection
+endIntersection] [-meridianmap] 
+An example of this is:
+java Graph ur.txt -show i1 i20
+Here is the output:
+
+dhcp-10-5-32-16:src anishabhattacharya$ javac *.java
+dhcp-10-5-32-16:src anishabhattacharya$ java Graph ur.txt -show i1 i20
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+creating dja object
+Computing the shortest path from i1to i20
+Algorithm terminated with success!!
+	time taken to compute the shortest path: 14 miliseconds.
+the shortest path is
+i20
+i19
+i22
+i13
+i8
+i9
+i3
+i1
+MAX LAT  43.131704
+MIN LAT  43.125214
+MAX Long  -77.625301
+MIN Long  -77.632098
+xScale: 73561.86552884556; yScale: 73651.77195686306(56, 182)
+(468, 16)
+(114, 276)
+(184, 418)
+(170, 417)
+(184, 427)
+(200, 422)
+(25, 146)
+(152, 469)
+(185, 468)
+(360, 168)
+(366, 179)
+(257, 151)
+(344, 140)
+(217, 164)
+(21, 97)
+(76, 218)
+(395, 91)
+(378, 178)
+(193, 211)
+(471, 27)
+(431, 46)
+(310, 310)
+(170, 295)
+(20, 113)
+(39, 91)
+(35, 120)
+(56, 130)
+(14, 128)
+(84, 136)
+(46, 151)
+(69, 161)
+(38, 172)
+(77, 152)
+(66, 156)
+(142, 255)
+(390, 144)
+(101, 385)
+(102, 332)
+(201, 433)
+(81, 157)
+(72, 154)
+(148, 371)
+(114, 143)
+(500, 29)
+(94, 178)
+(84, 181)
+(110, 172)
+(95, 186)
+(152, 156)
+(121, 167)
+(162, 171)
+(120, 470)
+(368, 68)
+(64, 83)
+(107, 204)
+(169, 182)
+(150, 189)
+(306, 221)
+(110, 180)
+(485, 35)
+(57, 191)
+(67, 187)
+(54, 217)
+(40, 198)
+(129, 236)
+(59, 225)
+(117, 462)
+(179, 310)
+(144, 145)
+(210, 234)
+(27, 177)
+(204, 281)
+(148, 263)
+(233, 271)
+(158, 279)
+(83, 288)
+(215, 357)
+(93, 304)
+(286, 278)
+(103, 318)
+(90, 123)
+(0, 108)
+(271, 330)
+(51, 243)
+(74, 291)
+(183, 250)
+(94, 322)
+(81, 307)
+(231, 227)
+(186, 176)
+(312, 268)
+(249, 291)
+(321, 241)
+(335, 260)
+(153, 478)
+(111, 162)
+(192, 468)
+(293, 203)
+(488, 0)
+(339, 296)
+(350, 273)
+(144, 205)
+(221, 343)
+(269, 325)
+(129, 458)
+(29, 92)
+(172, 362)
+(41, 95)
+(195, 353)
+(24, 101)
+(187, 390)
+(57, 98)
+(120, 381)
+(135, 225)
+(121, 356)
+(76, 104)
+(56, 112)
+(122, 421)
+(53, 117)
+(48, 120)
+(41, 120)
+(134, 306)
+(223, 254)
+(81, 157)
+(77, 152)
+(72, 154)
+(56, 130)
+(48, 120)
+(41, 120)
+(24, 101)
+Tree path is being plotted
+
+Now to show the meridian map using the minimum weight spanning tree:
+dhcp-10-5-32-16:src anishabhattacharya$ java Graph ur.txt -show i1 i20 meridianmap
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+Data is being read
+creating dja object
+Computing the shortest path from i1to i20
+Algorithm terminated with success!!
+	time taken to compute the shortest path: 13 miliseconds.
+the shortest path is
+i20
+i19
+i22
+i13
+i8
+i9
+i3
+i1
+Computing the minimum spanning tree using KruskalsAlgo 
+[BURTON, ANDERSON, LATTIMORE, i71, i70, i73, i72, i75, LOVEJOY, i74, i77, i76, i79, i78, GOERGEN-ATHLETIC, TIERNAN-SHORT, LECHASE, i80, UHS, i82, WILSON-BRIDGE, i81, MELIORA-SOUTH, HOYT, i11, GILBERT-LONG, i10, i13, i12, i15, i14, i17, i16, i19, i18, TUNNEL-MOREY, SUEB, WALLIS, SIMON, i20, WILMOT, i22, HOPEMAN, i21, i24, WILDER, i23, i26, i25, i28, i27, i29, HUTCH-UPPER, SPURRIER, GILBERT-COMMON, i31, i30, i33, i32, ITS, i35, SAGE, i34, i37, i36, i39, i38, HUTCH-LOWER, TUNNEL-HOYT, i40, i42, i41, i44, B&L, i43, i45, i48, i47, GAVETT, i49, MELIORA-NORTH, HOEING, TIERNAN-COMMON, HARKNESS, i51, i50, i53, MOREY, i52, i55, i54, i57, i56, i59, i58, CSB, CROSBY, GOERGEN, i60, i62, OBRIEN, i61, i64, WILSON, i63, i1, i66, HYLAN, i2, i65, i3, i68, i4, i67, RETTNER, i5, GLEASON-HALL, i6, i69, i7, i8, i9, DEWEY, RUSH-RHEES]
+	time taken to compute the minimum spanning tree: 4 miliseconds.
+INSIDE GUI NOW
+MAX LAT  43.131704
+MIN LAT  43.125214
+MAX Long  -77.625301
+MIN Long  -77.632098
+xScale: 73561.86552884556; yScale: 73651.77195686306(56, 182)
+(468, 16)
+(114, 276)
+(184, 418)
+(170, 417)
+(184, 427)
+(200, 422)
+(25, 146)
+(152, 469)
+(185, 468)
+(360, 168)
+(366, 179)
+(257, 151)
+(344, 140)
+(217, 164)
+(21, 97)
+(76, 218)
+(395, 91)
+(378, 178)
+(193, 211)
+(471, 27)
+(431, 46)
+(310, 310)
+(170, 295)
+(20, 113)
+(39, 91)
+(35, 120)
+(56, 130)
+(14, 128)
+(84, 136)
+(46, 151)
+(69, 161)
+(38, 172)
+(77, 152)
+(66, 156)
+(142, 255)
+(390, 144)
+(101, 385)
+(102, 332)
+(201, 433)
+(81, 157)
+(72, 154)
+(148, 371)
+(114, 143)
+(500, 29)
+(94, 178)
+(84, 181)
+(110, 172)
+(95, 186)
+(152, 156)
+(121, 167)
+(162, 171)
+(120, 470)
+(368, 68)
+(64, 83)
+(107, 204)
+(169, 182)
+(150, 189)
+(306, 221)
+(110, 180)
+(485, 35)
+(57, 191)
+(67, 187)
+(54, 217)
+(40, 198)
+(129, 236)
+(59, 225)
+(117, 462)
+(179, 310)
+(144, 145)
+(210, 234)
+(27, 177)
+(204, 281)
+(148, 263)
+(233, 271)
+(158, 279)
+(83, 288)
+(215, 357)
+(93, 304)
+(286, 278)
+(103, 318)
+(90, 123)
+(0, 108)
+(271, 330)
+(51, 243)
+(74, 291)
+(183, 250)
+(94, 322)
+(81, 307)
+(231, 227)
+(186, 176)
+(312, 268)
+(249, 291)
+(321, 241)
+(335, 260)
+(153, 478)
+(111, 162)
+(192, 468)
+(293, 203)
+(488, 0)
+(339, 296)
+(350, 273)
+(144, 205)
+(221, 343)
+(269, 325)
+(129, 458)
+(29, 92)
+(172, 362)
+(41, 95)
+(195, 353)
+(24, 101)
+(187, 390)
+(57, 98)
+(120, 381)
+(135, 225)
+(121, 356)
+(76, 104)
+(56, 112)
+(122, 421)
+(53, 117)
+(48, 120)
+(41, 120)
+(134, 306)
+(223, 254)
+Tree path is being plotted
+(57, 191)
+(468, 16)
+(83, 288)
+(184, 418)
+(170, 417)
+(187, 390)
+(201, 433)
+(152, 469)
+(129, 458)
+(152, 469)
+(46, 151)
+(185, 468)
+(366, 179)
+(344, 140)
+(378, 178)
+(257, 151)
+(217, 164)
+(24, 101)
+(76, 218)
+(395, 91)
+(378, 178)
+(485, 35)
+(500, 29)
+(471, 27)
+(431, 46)
+(27, 177)
+(368, 68)
+(310, 310)
+(170, 295)
+(24, 101)
+(20, 113)
+(0, 108)
+(39, 91)
+(41, 120)
+(48, 120)
+(84, 136)
+(46, 151)
+(69, 161)
+(38, 172)
+(77, 152)
+(77, 152)
+(142, 255)
+(120, 381)
+(94, 322)
+(172, 362)
+(144, 145)
+(94, 178)
+(84, 181)
+(110, 172)
+(110, 172)
+(95, 186)
+(152, 156)
+(121, 167)
+(162, 171)
+(64, 83)
+(186, 176)
+(150, 189)
+(293, 203)
+(67, 187)
+(57, 191)
+(54, 217)
+(135, 225)
+(51, 243)
+(122, 421)
+(179, 310)
+(231, 227)
+(210, 234)
+(148, 263)
+(204, 281)
+(223, 254)
+(249, 291)
+(74, 291)
+(81, 307)
+(221, 343)
+(195, 353)
+(103, 318)
+(103, 318)
+(312, 268)
+(269, 325)
+(312, 268)
+(335, 260)
+(335, 260)
+(350, 273)
+(29, 92)
+(172, 362)
+(57, 98)
+(57, 98)
+(120, 381)
+(120, 381)
+(56, 112)
+(53, 117)
+
+
